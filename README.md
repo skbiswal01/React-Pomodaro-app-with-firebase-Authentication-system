@@ -12,7 +12,7 @@
 
 <br>
 
-<h1>Break perios<h1> 
+<h1>Break period<h1> 
 
 ![](images/breaking period.png)
 
